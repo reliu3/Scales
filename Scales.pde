@@ -1,5 +1,5 @@
 void setup() {
-  size(1000,1000);
+  size(500,500);
   background(190,215,247);
   noStroke();
   noLoop();
@@ -33,3 +33,4 @@ void scales(int x, int y) {
 void mouseClicked() {
   System.out.println(mouseX + " " + mouseY);
 }
+
